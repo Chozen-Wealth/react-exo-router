@@ -1,0 +1,66 @@
+[
+    {
+        "id": 0,
+        "nom": "Nike Pegasus Premium",
+        "description": "La Pegasus Premium et sa réactivité maximale sont boostées par trois de nos technologies running les plus performantes : mousse ZoomX, unité Air Zoom sculptée et mousse ReactX. Cette Pegasus est la plus performante à ce jour, avec un retour d'énergie élevé unique. Son empeigne plus légère que l'air réduit le poids et augmente la respirabilité pour que tu voles plus rapidement.",
+        "prix": 209.99,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/202b8946-680e-4a9c-8ce4-0f89bf0959d7/NIKE+PEGASUS+PREMIUM.png"
+    },
+    {
+        "id": 1,
+        "nom": "Nike Pegasus 41",
+        "description": "Amorti réactif et rebond à chaque foulée. La Pegasus est la chaussure idéale pour tes runs quotidiens. Les unités Air Zoom et la semelle intermédiaire en mousse ReactX apportent plus de légèreté et un meilleur retour d'énergie. L'empeigne en mesh tissé réduit le poids de la chaussure et améliore la respirabilité.",
+        "prix": 139.99,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/3cfa0374-d35c-4083-a466-35c5ce5e8eaa/AIR+ZOOM+PEGASUS+41.png"
+    },
+    {
+        "id": 2,
+        "nom": "Nike Vaporfly 4",
+        "description": "Enchaîne les kilomètres avec cette nouvelle Vaporfly 4 encore plus légère. Cette version est encore plus légère, sans pour autant sacrifier la performance. Son secret ? La plaque Flyplate en fibre de carbone et la semelle intermédiaire en mousse ZoomX ultra-réactive. Le résultat ? Une chaussure de course sur laquelle tu peux compter pour toutes les distances.",
+        "prix": 269.99,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/5870c2a4-db94-4590-abb5-00f2119e6692/ZOOMX+VAPORFLY+NEXT%25+4+PRM.png"
+        
+    },
+    {
+        "id": 3,
+        "nom": "Nike Invincible 3",
+        "description": "Pour tes runs quotidiens : découvre notre chaussure la plus confortable avec son amorti maximal. Empeigne Flyknit respirante. Plateforme robuste en mousse ZoomX légère qui amortit chaque foulée. La semelle intermédiaire est plus large et plus haute que sur la version précédente, pour encore plus de confort.",
+        "prix": 189.99,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4c41bcec-f8e9-4eaf-913d-e5fef6438749/NIKE+ZOOMX+INVINCIBLE+RUN+FK+3.png"
+    },
+    {
+        "id": 4,
+        "nom": "Nike Revolution 8",
+        "description": "La Revolution 8 propose une nouvelle version d'un modèle très prisé. La semelle intermédiaire en mousse et l'avant-pied souple assurent un amorti incroyable à chaque foulée. Et l'empeigne en mesh est encore plus respirante que sur la version précédente, pour rester au frais et à l'aise pendant tes runs.",
+        "prix": 64.99,
+        "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b6e5b78b-4f2d-4eda-bd33-51ae6254b285/NIKE+REVOLUTION+8.png"
+    },
+    {
+        "id": 5,
+        "nom": "Nike Zoom Fly 6",
+        "description": "Subtilement géniale, la Zoom Fly 6 reflète le style de Jakob Ingebrigtsen et se concentre sur ce qui compte le plus : le goût de la victoire. Plus légère que la Zoom Fly 5, sa mousse ZoomX réactive améliore le retour d'énergie à chaque foulée. La plaque en fibre de carbone propulse l'athlète jusqu'à la ligne d'arrivée.",
+        "prix": 169.99,
+        "image":"https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/c76b9dce-ba97-4f1e-b7ad-b6c6d5155451/ZOOM+FLY+6+JI.png"
+    },
+    {
+        "id": 6,
+        "nom": "Nike Revolution 7",
+        "description": "La Revolution 7 intègre un amorti souple et un maintien qui pourraient bien transformer ton running. Plus stylée que jamais, confortable à chaque contact du pied avec le sol, cette chaussure revisite un coup de cœur des fans pour une foulée souple et fluide.",
+        "prix": 64.99,
+        "image":"https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/cd6dd402-923f-4db1-8b88-54ca099531b1/NIKE+REVOLUTION+7.png"
+    },
+    {
+        "id": 7,
+        "nom": "Nike Wildhorse 10",
+        "description": "Survole ton sentier préféré ou le parcours technique que tu as toujours voulu essayer avec la Wildhorse 10. Cette version est encore plus confortable qu'avant, grâce à la mousse ReactX réactive. Ajoute à ça un motif d'adhérence conçu pour le trail et une empeigne légère… et tu obtiens la chaussure parfaite pour affronter les terrains accidentés en toute confiance.",
+        "prix": 149.99,
+        "image":"https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/f6533103-c9b4-47dd-b4d8-55087b2f3d1d/NIKE+REACTX+WILDHORSE+10.png"
+    },
+    {
+        "id": 8,
+        "nom": "Nike Pegasus Trail 5",
+        "description": "Déploie tes ailes et ressens les bienfaits de la nature en parcourant les sentiers battus avec la Peg Trail 5. Maintenant équipée d'une semelle intermédiaire en mousse ReactX ultra-réactive, cette chaussure à usage mixte est parée pour la terre et le bitume.",
+        "prix": 139.99,
+        "image":"https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/489cde92-782a-44c6-b22b-1f29cdc494f5/NIKE+REACTX+PEGASUS+TRAIL+5.png"
+    }
+]

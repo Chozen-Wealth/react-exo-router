@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    height: 50px;
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding-inline: 5%;
+    justify-content: space-between;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
