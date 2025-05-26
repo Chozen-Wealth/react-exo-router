@@ -13,7 +13,7 @@ export default function Shop() {
     useEffect(()=>{
         setTimeout(()=>{
             setProduits(data)
-        }, 1000)
+        }, 2000)
     }, [])
 
     return(
